@@ -1,0 +1,262 @@
+[
+ {
+  "image": "/images/dress1.jpg",
+  "title": "Midi sundress",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "X",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "price": 29.9,
+  "rating": 5,
+  "category": "61698ffcf86408cd274ae96c",
+  "place": "Ha Noi",
+  "brand": "Yody"
+ },
+ {
+  "image": "/images/dress2.jpg",
+  "title": "Midi sundress",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "X",
+   "M",
+   "L"
+  ],
+  "price": 18.9,
+  "rating": 4,
+  "category": "61698ffcf86408cd274ae96c",
+  "place": "HCM City",
+  "brand": "Choobe"
+ },
+ {
+  "image": "/images/dress5.jpg",
+  "title": "Frill mini dress",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "X",
+   "L",
+   "XL"
+  ],
+  "price": 10.9,
+  "rating": 4,
+  "category": "61698ffcf86408cd274ae96c",
+  "place": "Ha Noi",
+  "brand": "Yody"
+ },
+ {
+  "image": "/images/dress3.jpg",
+  "title": "Midi dress",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "X",
+   "M",
+   "L"
+  ],
+  "price": 15.9,
+  "rating": 5,
+  "category": "61698ffcf86408cd274ae96c",
+  "place": "HCM City",
+  "brand": "Nelly"
+ },
+ {
+  "image": "/images/dress4.jpg",
+  "title": "cami maxi dress",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "XL"
+  ],
+  "price": 20.9,
+  "rating": 4,
+  "category": "61698ffcf86408cd274ae96c",
+  "place": "HCM City",
+  "brand": "Yody"
+ },
+ {
+  "image": "/images/dress6.jpg",
+  "title": "Midi tea dress",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "XL",
+   "XXL"
+  ],
+  "price": 39.9,
+  "rating": 5,
+  "category": "61698ffcf86408cd274ae96c",
+  "place": "Ha Noi",
+  "brand": "Choobe"
+ },
+ {
+  "image": "/images/dress7.jpg",
+  "title": "Midi dress",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "X",
+   "M",
+   "L"
+  ],
+  "price": 14.9,
+  "rating": 4,
+  "category": "61698ffcf86408cd274ae96c",
+  "place": "Foreign",
+  "brand": "Yody"
+ },
+ {
+  "image": "/images/dress8.jpg",
+  "title": "Cami maxi dress",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "XL"
+  ],
+  "price": 25.9,
+  "rating": 5,
+  "category": "61698ffcf86408cd274ae96c",
+  "place": "Ha Noi",
+  "brand": "Yody"
+ },
+ {
+  "image": "/images/dress9.jpg",
+  "title": "Midi tea dress",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "XL",
+   "XXL"
+  ],
+  "price": 49.9,
+  "rating": 5,
+  "category": "61698ffcf86408cd274ae96c",
+  "place": "Foreign",
+  "brand": "Choobe"
+ },
+ {
+  "image": "/images/shirt1.jpg",
+  "title": "Shirt 1",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "X",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "price": 29.9,
+  "rating": 5,
+  "category": "61698ffcf86408cd274ae96b",
+  "place": "Ha Noi",
+  "brand": "Yody"
+ },
+ {
+  "image": "/images/shirt2.jpg",
+  "title": "Shirt 2",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "X",
+   "M",
+   "L"
+  ],
+  "price": 18.9,
+  "rating": 4,
+  "category": "61698ffcf86408cd274ae96b",
+  "place": "Ha Noi",
+  "brand": "Choobe"
+ },
+ {
+  "image": "/images/shirt5.jpg",
+  "title": "Shirt 3",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "X",
+   "L",
+   "XL"
+  ],
+  "price": 10.9,
+  "rating": 4,
+  "category": "61698ffcf86408cd274ae96b",
+  "place": "HCM City",
+  "brand": "Yody"
+ },
+ {
+  "image": "/images/shirt3.jpg",
+  "title": "Shirt 4",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "X",
+   "M",
+   "L"
+  ],
+  "price": 15.9,
+  "rating": 5,
+  "category": "61698ffcf86408cd274ae96b",
+  "place": "Ha Noi",
+  "brand": "Nelly"
+ },
+ {
+  "image": "/images/shirt4.jpg",
+  "title": "Shirt 5",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "XL"
+  ],
+  "price": 20.9,
+  "rating": 4,
+  "category": "61698ffcf86408cd274ae96b",
+  "place": "HCM City",
+  "brand": "Yody"
+ },
+ {
+  "image": "/images/shirt6.jpg",
+  "title": "Shirt 6",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "XL",
+   "XXL"
+  ],
+  "price": 39.9,
+  "rating": 5,
+  "category": "61698ffcf86408cd274ae96b",
+  "place": "Ha Noi",
+  "brand": "Choobe"
+ },
+ {
+  "image": "/images/shirt7.jpg",
+  "title": "Shirt 7",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "X",
+   "M",
+   "L"
+  ],
+  "price": 14.9,
+  "rating": 4,
+  "category": "61698ffcf86408cd274ae96b",
+  "place": "Ha Noi",
+  "brand": "Yody"
+ },
+ {
+  "image": "/images/shirt8.jpg",
+  "title": "Shirt 8",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "XL"
+  ],
+  "price": 25.9,
+  "rating": 5,
+  "category": "61698ffcf86408cd274ae96b",
+  "place": "HCM City",
+  "brand": "Yody"
+ },
+ {
+  "image": "/images/shirt9.jpg",
+  "title": "Shirt 9",
+  "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+  "sizes": [
+   "XL",
+   "XXL"
+  ],
+  "price": 49.9,
+  "rating": 5,
+  "category": "61698ffcf86408cd274ae96b",
+  "place": "Foreign",
+  "brand": "Choobe"
+ }
+]
