@@ -27,13 +27,24 @@ connectDB();
 const categories = require('./routes/category');
 const products = require('./routes/product');
 const auth = require('./routes/auth');
-const users = require('./routes/users');
-//
+const admin = require('./routes/admin');
+const order = require('./routes/order');
+const stripe = require('./routes/stripe');
+const user_data = require('./routes/user_data');
+const discount = require('./routes/discount');
+
 const app = express();
 
-app.use(cors());
+// app.use(
+//   cors({
+//     preflightContinue: true,
+//     allowedHeaders: ['Content-Type', 'Authorization'],
+//     credentials: true,
+//   })
+// );
 //Body Parser
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 // Cookie parser
 app.use(cookieParser());
@@ -72,19 +83,22 @@ app.use(limiter);
 app.use(hpp());
 
 // Enable CORS
-app.use(cors());
+app.use(cors({ origin: true }));
 //set static folder
 app.use(express.static(path.join(__dirname, 'public')));
 
 //
-app.get('/', (req, res, next) => {
-  res.send('Hello from Duong Ace');
-});
+
+// app.options('/api/checkout', cors());
 // Mount routers
 app.use('/api/categories', categories);
 app.use('/api/products', products);
 app.use('/api/auth', auth);
-app.use('/api/users', users);
+app.use('/api/users', admin);
+app.use('/api/order', order);
+app.use('/api/user_data', user_data);
+app.use('/api/discount', discount);
+app.use('/', stripe);
 
 // Moutn error handler
 app.use(errorHandler);
