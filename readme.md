@@ -1,6 +1,6 @@
 # SHOPPING-CART-API
 
-> Backend API for project training: ftech-shopping-cart
+> Backend API for project training: ftech-shopping-cart (link FE: https://github.com/tranduongkyoto/Ftech_Project_Training)
 
 ## Usage
 
