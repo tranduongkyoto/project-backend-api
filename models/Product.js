@@ -14,6 +14,10 @@ const ProductSchema = new mongoose.Schema({
     type: String,
     required: [true, 'Please add description'],
   },
+  quantity: {
+    type: Number,
+    default: 100,
+  },
   sizes: {
     type: [String],
     required: [true, 'Please add  list of size'],
@@ -42,6 +46,11 @@ const ProductSchema = new mongoose.Schema({
     type: mongoose.Schema.ObjectId,
     ref: 'Category',
     required: true,
+  },
+  count: {
+    type: Number,
+    required: false,
+    default: 0,
   },
 });
 

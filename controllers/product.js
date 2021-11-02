@@ -1,7 +1,6 @@
 const ErrorResponse = require('../utils/errorResponse');
 const asyncHandler = require('../middlewares/async');
 const Product = require('../models/Product');
-const Category = require('../models/Category');
 // @desc      Get Products
 // @route     GET /api/v1/Products
 // @route     GET /api/v1/Categories/:CategoryId/Products

@@ -18,9 +18,9 @@ const Categories = JSON.parse(
 const Products = JSON.parse(
   fs.readFileSync(`${__dirname}/_data/products.json`, 'utf-8')
 );
-// const users = JSON.parse(
-//   fs.readFileSync(`${__dirname}/_data/users.json`, 'utf-8')
-// );
+const users = JSON.parse(
+  fs.readFileSync(`${__dirname}/_data/users.json`, 'utf-8')
+);
 const importData = async () => {
   try {
     //await Category.create(Categories);
@@ -35,8 +35,8 @@ const importData = async () => {
 
 const deleteData = async () => {
   try {
-    await Category.deleteMany();
-    // await Product.deleteMany();
+    //await Category.deleteMany();
+    await Product.deleteMany();
     // await User.deleteMany();
     console.log('Data Destroyed...'.red.inverse);
     process.exit();
