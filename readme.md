@@ -1,5 +1,7 @@
 # SHOPPING-CART-API
 
+>Tech Stack: Nodejs, Express, MongoDB, JWT
+>
 > Backend API for project training: ftech-shopping-cart (link FE: https://github.com/tranduongkyoto/Ftech_Project_Training)
 
 ## Usage
