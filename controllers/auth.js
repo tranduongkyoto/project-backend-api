@@ -37,6 +37,7 @@ const register = asyncHandler(async (req, res, next) => {
 // @route     POST /api/v1/auth/login
 // @access    Public
 const login = asyncHandler(async (req, res, next) => {
+  console.log('40', req.body);
   const { email, password } = req.body;
 
   //check email & password

@@ -9,13 +9,14 @@ exports.getDiscount = asyncHandler(async (req, res) => {
   console.log(req.body);
   var results = 0;
   switch (code) {
-    case 'ftech':
-      results = 50;
+    case 'prj3':
+      results = 25;
       break;
     case 'hust':
-      results = 100;
+      results = 50;
       break;
   }
+  console.log(results);
   res.status(200).json({
     success: true,
     data: results,
